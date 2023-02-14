@@ -1,1 +1,1 @@
-a script that creates an alias
+a script that prints the result of POWER divided by DIVIDE, followed by a new line
